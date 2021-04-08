@@ -10,5 +10,5 @@
   <li>How to use the ProgressView.</li>
 </ul>
 <h2>☑️ Final look of Egg Timer app🍳</h2>
-<img src="eggTimer.png" alt="eggTimer" width="20%" height="50%">
+<img src="eggTimer.gif" alt="eggTimer" width="20%" height="50%">
 
