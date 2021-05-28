@@ -1,3 +1,4 @@
+⚠️ Feel free to download source code and change it by your own.
 <h2>☑️ What is this app about?</h2>
 <p>A beautiful egg timer app to boil your eggs to perfection depending on how you prefer your eggs.</p>
 <h2>☑️ What have I learned?</h2>
